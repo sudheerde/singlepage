@@ -1,3 +1,2 @@
 # singlepage
-info
 personal info
